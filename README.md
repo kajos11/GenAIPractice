@@ -1,0 +1,2 @@
+# GenAIPractice
+GenAIPractice

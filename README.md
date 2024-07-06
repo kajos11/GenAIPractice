@@ -10,3 +10,8 @@
 ![OpenAIChainingResult](https://github.com/kajos11/GenAIPractice/assets/15695925/80a8f1c2-9ac4-455d-b7f1-eae9a4da4926)
 **PDF that was referred:**
 ![ChainPdf](https://github.com/kajos11/GenAIPractice/assets/15695925/162c77c6-e229-4160-8678-97c0b6437968)
+
+
+**Example 3: Open AI Chat API, Using System message and Human Message:
+![OpenAI Chat](https://github.com/kajos11/GenAIPractice/assets/15695925/0e5b5c22-30e0-4d98-9b6a-9402c539245e)
+
